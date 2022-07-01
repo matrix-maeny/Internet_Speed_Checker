@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internet Speed Checker</string>
+    <string name="about">About</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app simply gives the downloading and uploading speed of the current active network.\n\nThe value of ping show in the app is for www.google.com.\n\n\nSerial no: 41\nDate of creation: 7 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
